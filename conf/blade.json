@@ -1,0 +1,27 @@
+{
+    "addcase": {
+        "casename": "case1",
+        "casepath": "E:\\201842"
+    },
+    "fileaction": {
+        "appname": "groot",
+        "imagepath": "E:≤‚ ‘.dmg",
+        "timezone": "UTC+08:00",
+        "loadmode": "deleterecovery",
+        "multi": false,
+        "type": [],
+        "other": "",
+        "range": "",
+        "report": false
+    },
+    "appaction": {
+        "appname": [
+            "usb",
+            "reg"
+        ],
+        "param": "",
+        "range": "RelevantFile",
+        "type": [],
+        "report": false
+    }
+}
